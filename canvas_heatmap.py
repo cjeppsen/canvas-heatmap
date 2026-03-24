@@ -29,7 +29,7 @@ import sys
 # Set these as environment variables before running:
 #   export CANVAS_URL="https://yourschool.instructure.com"
 #   export CANVAS_API_TOKEN="your_token_here"
-CANVAS_URL = os.environ.get("CANVAS_URL", "https://graniteschools.instructure.com")
+CANVAS_URL = os.environ.get("CANVAS_URL", "https://yourschool.instructure.com")
 API_TOKEN  = os.environ.get("CANVAS_API_TOKEN")
 OUTPUT_FILE = "assignment_heatmap.png"
 
