@@ -1,0 +1,8 @@
+# Output files
+assignment_heatmap.png
+assignment_details.txt
+
+# Environment
+.env
+*.pyc
+__pycache__/
